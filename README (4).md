@@ -3,7 +3,7 @@
 A clean, responsive, and professional portfolio website built as part of the **Future Interns — Full Stack Web Development Internship (Task 1, 2026)**.
 
 ## 🔗 Live Demo
-[https://Gallium68.github.io/portfolio]-/(https://Gallium68.github.io/Portfolio-/)
+(https://Gallium68.github.io/Portfolio-/)
 
 ## 📌 About
 This is my personal portfolio website showcasing my skills, projects, and professional background as a Full Stack Developer.
